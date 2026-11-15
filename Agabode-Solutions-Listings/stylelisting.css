@@ -1,0 +1,23 @@
+.main-header{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+}
+
+.img-header{
+    max-width: 25%;
+    height: auto;
+}
+
+.coming-soon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+}
+
+h1{
+    color: goldenrod;
+    font-size: 75px;
+}
